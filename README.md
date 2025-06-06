@@ -15,5 +15,5 @@
 
 ---
 > [!TIP]
-> If you like this project, consider [sponsoring](https://"#") to support the author 🌸
+> If you like this project, consider [sponsoring](https:"#") to support the author 🌸
 ---
