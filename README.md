@@ -25,7 +25,7 @@
 #### Screenshots
 | | | |
 |:--:|:--:|:--:| 
-|<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/com.google.android.youtube.pro.jpg'  > | <img src='https://raw.githubusercontent.com/RZI47/Source/refs/heads/main/.github/img/01102.png'  > |<img src='https://raw.githubusercontent.com/RZI47/Source/refs/heads/main/.github/img/01101.png'  > |
+|<img src='https://raw.githubusercontent.com/RZI47/Source/refs/heads/main/.github/img/com.modwanz.android.youtube.lite.jpg'  > | <img src='https://raw.githubusercontent.com/RZI47/Source/refs/heads/main/.github/img/01102.png'  > |<img src='https://raw.githubusercontent.com/RZI47/Source/refs/heads/main/.github/img/01101.png'  > |
 
 
 
