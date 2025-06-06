@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Logo Animation</title>
+  <style>
+    body {
+      margin: 0;
+      background: radial-gradient(ellipse at center, #111 0%, #000 100%);
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+    }
+
+    .logo-wrapper {
+      animation: pulse 4s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    img {
+      width: 200px;
+      height: auto;
+      filter: drop-shadow(0 0 25px red) drop-shadow(0 0 60px white);
+      animation: rotate 10s linear infinite, glow 3s ease-in-out infinite;
+    }
+
+    @keyframes rotate {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    @keyframes pulse {
+      0%, 100% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.15);
+      }
+    }
+
+    @keyframes glow {
+      0%, 100% {
+        filter: drop-shadow(0 0 10px red) drop-shadow(0 0 20px white);
+      }
+      50% {
+        filter: drop-shadow(0 0 25px red) drop-shadow(0 0 60px white);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="logo-wrapper">
+    <img src="https://raw.githubusercontent.com/RZI47/Source/refs/heads/main/logo.png" alt="Logo" />
+  </div>
+</body>
+</html>
 
