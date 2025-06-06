@@ -1,5 +1,5 @@
 <p align="center">
-<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/ytpro.gif' height=150  >
+<img src='https://raw.githubusercontent.com/RZI47/Source/refs/heads/main/logo.png' height=150  >
 </p>
 <h1 align=center>Rz YouTube X Premium Lite</h1>
 
