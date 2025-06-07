@@ -74,3 +74,11 @@ The available variables for gemini prompt are
  * Add basic features to the video player
  * Enhance Audio
  * Merging Adaptive Formats
+
+
+
+### Credits
+ * [Sponsor Block](https://github.com/ajayyy/SponsorBlock)
+ * [return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)
+ * [YouTube.js](https://github.com/LuanRT/YouTube.js/)
+
