@@ -36,3 +36,26 @@
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https//)
 
 
+
+## Features
+ * <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/gemini-logo-13486188-10900314-unscreen-ezgif.com-crop.gif' height=15 width=15 > Google Gemini
+   * Summarise Vidoes
+   * Customisable prompts and models
+ * Video Downloader
+ * Shorts Downloader 
+ * Thumbnails Downloader
+ * Captions Downloader 
+ * Ads Blocker
+ * Minimize Video
+ * Picture in Picture Mode
+ * Shows Number of Dislikes
+ * Background Audio Player
+ * Custom Heart feature to save videos without logging into your account
+ * Enable / disable media codecs
+ * Skip Sponsers
+ * Force Zoom
+ * Hide Shorts
+ * APK size under 50KB
+ * Minimal
+ * Almost 0 Internal Dependencies
+ * Auto Updation of App
