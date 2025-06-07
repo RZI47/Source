@@ -59,3 +59,18 @@
  * Minimal
  * Almost 0 Internal Dependencies
  * Auto Updation of App
+
+
+
+
+
+## Gemini Prompt
+The available variables for gemini prompt are
+* `{url}` : The URL of the video
+* `{title}` : Title of the video
+* `{videoId}` : Video Id of the video
+
+## ToDo
+ * Add basic features to the video player
+ * Enhance Audio
+ * Merging Adaptive Formats
