@@ -39,7 +39,7 @@
 
 ## Features
  * <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/gemini-logo-13486188-10900314-unscreen-ezgif.com-crop.gif' height=15 width=15 > Google Gemini
-   * Summarise Vidoes
+   * Summarise Videos
    * Customisable prompts and models
  * Video Downloader
  * Shorts Downloader 
