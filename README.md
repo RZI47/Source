@@ -33,7 +33,7 @@
 
 ## Download Rz YouTube X Premium Lite 
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https//)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")]([https//](https://rzyoutubexpremiumlite.blogspot.com/?m=1))
 
 
 
