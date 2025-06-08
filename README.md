@@ -56,7 +56,7 @@
  * Skip Sponsers
  * Force Zoom
  * Hide Shorts
- * APK size under 50KB
+ * APK size under 113KB
  * Minimal
  * Almost 0 Internal Dependencies
  * Auto Updation of App
